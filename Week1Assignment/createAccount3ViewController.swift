@@ -1,5 +1,5 @@
 //
-//  CreateAccountRootViewControllerViewController.swift
+//  createAccount3ViewController.swift
 //  Week1Assignment
 //
 //  Created by Padmaja Ragavendra on 5/22/16.
@@ -8,14 +8,10 @@
 
 import UIKit
 
-class CreateAccountRootViewControllerViewController: UIViewController {
+class createAccount3ViewController: UIViewController {
 
-  
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        
-
 
         // Do any additional setup after loading the view.
     }
@@ -24,10 +20,7 @@ class CreateAccountRootViewControllerViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    @IBAction func onBackButton(sender: AnyObject) {
-        dismissViewControllerAnimated(true, completion: nil)
-        
-    }
+    
 
     /*
     // MARK: - Navigation

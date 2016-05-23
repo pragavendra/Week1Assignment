@@ -18,6 +18,10 @@
 		058A7E9F1CF20DB700067070 /* SignInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7E9E1CF20DB700067070 /* SignInRootViewController.swift */; };
 		058A7EA31CF2507300067070 /* SettingscustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EA21CF2507300067070 /* SettingscustomViewController.swift */; };
 		058A7EA51CF252A600067070 /* SettingsigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EA41CF252A600067070 /* SettingsigninViewController.swift */; };
+		058A7EA71CF28F4B00067070 /* createAccount2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EA61CF28F4B00067070 /* createAccount2ViewController.swift */; };
+		058A7EA91CF2914600067070 /* createAccount3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EA81CF2914600067070 /* createAccount3ViewController.swift */; };
+		058A7EAB1CF2915F00067070 /* createAccount4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EAA1CF2915F00067070 /* createAccount4ViewController.swift */; };
+		058A7EAD1CF291EF00067070 /* createAccount5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058A7EAC1CF291EF00067070 /* createAccount5ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +59,10 @@
 		058A7E9E1CF20DB700067070 /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
 		058A7EA21CF2507300067070 /* SettingscustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingscustomViewController.swift; sourceTree = "<group>"; };
 		058A7EA41CF252A600067070 /* SettingsigninViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsigninViewController.swift; sourceTree = "<group>"; };
+		058A7EA61CF28F4B00067070 /* createAccount2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createAccount2ViewController.swift; sourceTree = "<group>"; };
+		058A7EA81CF2914600067070 /* createAccount3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createAccount3ViewController.swift; sourceTree = "<group>"; };
+		058A7EAA1CF2915F00067070 /* createAccount4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createAccount4ViewController.swift; sourceTree = "<group>"; };
+		058A7EAC1CF291EF00067070 /* createAccount5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createAccount5ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +149,10 @@
 				058A7E9C1CF20D9B00067070 /* CreateAccountRootViewControllerViewController.swift */,
 				058A7E9E1CF20DB700067070 /* SignInRootViewController.swift */,
 				058A7EA21CF2507300067070 /* SettingscustomViewController.swift */,
+				058A7EA61CF28F4B00067070 /* createAccount2ViewController.swift */,
+				058A7EA81CF2914600067070 /* createAccount3ViewController.swift */,
+				058A7EAA1CF2915F00067070 /* createAccount4ViewController.swift */,
+				058A7EAC1CF291EF00067070 /* createAccount5ViewController.swift */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -276,9 +288,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				058A7EA91CF2914600067070 /* createAccount3ViewController.swift in Sources */,
 				058A7E9F1CF20DB700067070 /* SignInRootViewController.swift in Sources */,
 				058A7EA31CF2507300067070 /* SettingscustomViewController.swift in Sources */,
+				058A7EA71CF28F4B00067070 /* createAccount2ViewController.swift in Sources */,
+				058A7EAD1CF291EF00067070 /* createAccount5ViewController.swift in Sources */,
 				057877451CF16EAE00C2EA7E /* ViewController.swift in Sources */,
+				058A7EAB1CF2915F00067070 /* createAccount4ViewController.swift in Sources */,
 				057877431CF16EAE00C2EA7E /* AppDelegate.swift in Sources */,
 				058A7E9D1CF20D9B00067070 /* CreateAccountRootViewControllerViewController.swift in Sources */,
 				058A7EA51CF252A600067070 /* SettingsigninViewController.swift in Sources */,
