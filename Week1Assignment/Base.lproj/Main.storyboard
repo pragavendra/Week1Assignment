@@ -313,7 +313,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="326" height="521"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings" id="gI2-g8-s3E">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings" id="gI2-g8-s3E">
                                         <rect key="frame" x="0.0" y="0.0" width="318" height="508"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
@@ -569,7 +569,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="326" height="521"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings" id="qPM-c8-hpM">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="settings" id="qPM-c8-hpM">
                                         <rect key="frame" x="0.0" y="0.0" width="318" height="528"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
@@ -593,7 +593,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gLD-xk-JQp" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1251" y="2509"/>
+            <point key="canvasLocation" x="3155" y="4821"/>
         </scene>
         <!--Photos-->
         <scene sceneID="xmn-Jb-m3z">
@@ -855,10 +855,10 @@
         <image name="welcome3" width="320" height="568"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="bRk-3U-Eoi"/>
         <segue reference="5ZR-9Q-jn8"/>
         <segue reference="qNG-TR-6y4"/>
         <segue reference="ui6-zb-nI0"/>
-        <segue reference="Y5D-qa-mUQ"/>
+        <segue reference="bRk-3U-Eoi"/>
+        <segue reference="0Fa-j4-k6i"/>
     </inferredMetricsTieBreakers>
 </document>
